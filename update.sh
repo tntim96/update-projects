@@ -12,5 +12,9 @@ cd ../JSCover-samples
 git pull
 cd ../JMonitaur
 git pull
+cd ../rhino-jscover
+git pull
+cd ../rhino-jscover-repackaged
+git pull
 
 
