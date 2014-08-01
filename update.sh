@@ -16,5 +16,9 @@ cd ../rhino-jscover
 git pull
 cd ../rhino-jscover-repackaged
 git pull
+cd ../closure-compiler
+git pull
+cd ../java8-tests
+git pull
 
 
