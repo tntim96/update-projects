@@ -1,6 +1,7 @@
 set -v
 cd ..
 git clone https://github.com/tntim96/JSCover.git
+git clone https://github.com/tntim96/JSCover2.git
 git clone https://github.com/tntim96/JSCover.git JSCover-gh-pages
 cd JSCover-gh-pages
 git checkout gh-pages

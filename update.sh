@@ -2,6 +2,8 @@ set -v
 git pull
 cd ../JSCover
 git pull
+cd ../JSCover2
+git pull
 cd ../JSCover-gh-pages
 git pull origin gh-pages
 cd ../JSCover-maven-plugin
