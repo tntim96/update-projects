@@ -22,5 +22,5 @@ cd ../closure-compiler
 git pull
 cd ../java8-tests
 git pull
-
-
+cd ../dotfiles
+git pull

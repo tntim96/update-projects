@@ -14,4 +14,4 @@ git clone https://github.com/tntim96/rhino-jscover.git
 git clone https://github.com/tntim96/rhino-jscover-repackaged.git
 git clone https://github.com/tntim96/closure-compiler.git
 git clone https://github.com/tntim96/java8-tests.git
-
+git clone https://github.com/tntim96/dotfiles.git
